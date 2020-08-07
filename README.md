@@ -14,14 +14,18 @@ For now, I feel confident in: Javascript, HTML5, CSS3, SASS<br>
 <br />
 
 
-## Latest: WeatherApp-inprogress
+## Check out my reposietories
+* [Latest: WeatherApp-inprogress](https://github.com/JoannaIgnasiak/WeatherApp-inprogress
+) <br />
 Application in progress. Wheater application using https://openweathermap.org/api. Current weather in 200,000 cities around the world and forecast for 5 days ahead.<br />
 
-## MinesweeperGame
+* [MinesweeperGame](https://github.com/JoannaIgnasiak/MinesweeperGame
+) <br />
 This challenge aimed to create a playable game, my version of the cult game: minesweeper. Educational purposes only. (And a little bit of fun of course.) 
 I have learnt a lot of new skills in expanding this site sing JavaScript, CSS and HTML.<br />
 
-## Flags-of-the-world
+* [Flags-of-the-world](https://github.com/JoannaIgnasiak/Flags-of-the-world
+) <br />
 This challenge aimed to:
 See all countries from the API on the homepage
 Search for a country using an input field
