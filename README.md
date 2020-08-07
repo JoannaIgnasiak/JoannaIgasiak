@@ -6,10 +6,10 @@ Feel free to check out my reposietories and contact me at LinkedIn  [<img alt="j
 <br />
 
 For now, I feel confident in: 
-* Javascript <img align="left" alt="javascript"  width="30px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>  
-* HTML5 <img align="left" alt="html5" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-* CSS3 <img align="left" alt="css" width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
-* SASS <img align="left" alt="sass" width="30px" src="http://logo-load.com/uploads/posts/2016-08/sass-logo.png"/>
+* Javascript <img align="left" alt="javascript"  width="30px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>  <br /> 
+* HTML5 <img align="left" alt="html5" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/> <br />
+* CSS3 <img align="left" alt="css" width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/> <br />
+* SASS <img align="left" alt="sass" width="30px" src="http://logo-load.com/uploads/posts/2016-08/sass-logo.png"/><br />
 
 
 
