@@ -13,8 +13,6 @@ For now, I feel confident in:
 
 
 
-<br />
-<br />
 
 
 ## Check out my reposietories
