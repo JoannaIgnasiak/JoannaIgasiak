@@ -1,6 +1,7 @@
 # Hi, it's Joanna! 
 
 I am learning programming in front-end and looking for my first job as junior front-end developer. 
+<br />
 Feel free to check out my reposietories and contact me at LinkedIn  [<img alt="joannaignasiak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
