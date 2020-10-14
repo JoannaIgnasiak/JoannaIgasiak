@@ -22,7 +22,7 @@ For now, I feel confident in:
 Application in progress. Wheater application using https://openweathermap.org/api. Current weather in 200,000 cities around the world and forecast for 5 days ahead.<br />
 <br />
 
-* [FlagsOfTheWorld---React](https://github.com/JoannaIgnasiak/WeatherApp--React)<br />
+* [FlagsOfTheWorld---React](https://github.com/JoannaIgnasiak/FlagsOfTheWorld---React)<br />
 This challenge aimed to:
 See all countries from the API on the homepage
 Search for a country using an input field
