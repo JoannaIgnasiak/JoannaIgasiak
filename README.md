@@ -16,14 +16,14 @@ For now, I feel confident in:
 
 
 
-## Check out my reposietories
+## Check out my reposietories<br />
 * [Latest: WeatherApp--React](https://github.com/JoannaIgnasiak/WeatherApp--React
 ) <br />
 Application in progress. Wheater application using https://openweathermap.org/api. Current weather in 200,000 cities around the world and forecast for 5 days ahead.<br />
+<br />
 
-
-* [FlagsOfTheWorld---React](https://github.com/JoannaIgnasiak/FlagsOfTheWorld---React)
-his challenge aimed to:
+* [FlagsOfTheWorld---React](https://github.com/JoannaIgnasiak/WeatherApp--React)<br />
+This challenge aimed to:
 See all countries from the API on the homepage
 Search for a country using an input field
 Filter countries by region
@@ -31,7 +31,7 @@ Click on a country to see more detailed information
 Click through to the border countries on the detail page
 Toggle the colour scheme between light and dark mode
 The project made in educational aim using JS, CSS and HTML, API.
-
+<br />
 
 * [MinesweeperGame](https://github.com/JoannaIgnasiak/MinesweeperGame
 ) <br />
