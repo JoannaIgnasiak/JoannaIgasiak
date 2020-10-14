@@ -17,7 +17,7 @@ For now, I feel confident in:
 
 
 ## Check out my reposietories
-* [Latest: WeatherApp-inprogress](https://github.com/JoannaIgnasiak/WeatherApp-inprogress
+* [Latest: WeatherApp-inprogress](https://github.com/JoannaIgnasiak/WeatherApp--React
 ) <br />
 Application in progress. Wheater application using https://openweathermap.org/api. Current weather in 200,000 cities around the world and forecast for 5 days ahead.<br />
 
