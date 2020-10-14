@@ -21,14 +21,9 @@ For now, I feel confident in:
 ) <br />
 Application in progress. Wheater application using https://openweathermap.org/api. Current weather in 200,000 cities around the world and forecast for 5 days ahead.<br />
 
-* [MinesweeperGame](https://github.com/JoannaIgnasiak/MinesweeperGame
-) <br />
-This challenge aimed to create a playable game, my version of the cult game: minesweeper. Educational purposes only. (And a little bit of fun of course.) 
-I have learnt a lot of new skills in expanding this site sing JavaScript, CSS and HTML.<br />
 
-* [Flags-of-the-world](https://github.com/JoannaIgnasiak/Flags-of-the-world
-) <br />
-This challenge aimed to:
+* [FlagsOfTheWorld---React](https://github.com/JoannaIgnasiak/FlagsOfTheWorld---React)
+his challenge aimed to:
 See all countries from the API on the homepage
 Search for a country using an input field
 Filter countries by region
@@ -36,6 +31,14 @@ Click on a country to see more detailed information
 Click through to the border countries on the detail page
 Toggle the colour scheme between light and dark mode
 The project made in educational aim using JS, CSS and HTML, API.
+
+
+* [MinesweeperGame](https://github.com/JoannaIgnasiak/MinesweeperGame
+) <br />
+This project is the first application in my portfolio to compare with my everyday growing skills. 
+This challenge aimed to create a playable game, my version of the cult game: minesweeper. Educational purposes only. (And a little bit of fun of course.) 
+I have learnt a lot of new skills in expanding this site sing JavaScript, CSS and HTML.<br />
+
 
 
 
